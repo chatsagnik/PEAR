@@ -23,3 +23,7 @@ A Conversational Chatbot built on the Microsoft Bot Framework which provides 9 d
 * [Cricscore API](http://cricscore-api.appspot.com/)
 * [Zomato Developers API](https://developers.zomato.com/)
 * [Bing Search API](https://azure.microsoft.com/en-in/services/cognitive-services/search/)
+
+## Contributors
+* [Sagnik Chatterjee](https://github.com/chatsagnik)
+* [Aman Mahansaria](https://github.com/aman33459)
